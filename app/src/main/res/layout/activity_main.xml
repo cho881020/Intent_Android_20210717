@@ -38,5 +38,17 @@
         android:text="문자보내기 (SENDTO)" />
 
 
+    <Button
+        android:id="@+id/naverBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="네이버로 가기" />
+
+    <Button
+        android:id="@+id/kakaoStoreBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="카카오톡 플레이스토어로 가기" />
+
 
 </LinearLayout>
